@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/EsdrasMarcelinoDaSilva/EsdrasMarcelinoDaSilva/raw/main/assets/animation-header.gif" alt="Hi, I'm Esdras 👋 I'm a 🚀 full stack developer 🚀 I ❤️  electronic circuits ❤️">
+  <img src="https://github.com/EsdrasMarcelinoDaSilva/EsdrasMarcelinoDaSilva/raw/main/assets/header-animacao.gif" alt="Hi, I'm Esdras 👋 I'm a 🚀 full stack developer 🚀 I ❤️  electronic circuits ❤️">
 </p>
 
 - 🔭 I’m currently working on **project Machine Learning**
