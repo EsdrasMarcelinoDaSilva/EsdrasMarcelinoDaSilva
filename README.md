@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/EsdrasMarcelinoDaSilva](https://github.com/EsdrasMarcelinoDaSilva)
 - 💬 Ask me about **Technology, IA ethics, Career**
 - 📫 How to reach me **profesdras2@outlook.com**
-- 📄 Know about my experiences [www.linkedin.com/in/esdras-software-developer](www.linkedin.com/in/esdras-software-developer)
+- 📄 Know about my experiences [https://www.linkedin.com/in/esdras-software-developer](https://www.linkedin.com/in/esdras-software-developer)
 - ⚡ Fun fact **Electronic Circuit Lover**
 
 <h3 align="left">Languages and Tools:</h3>
