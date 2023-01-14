@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Esdras Marcelino Da Silva</h1>
-<h3 align="center">A Full-Stack Developer</h3>
+<p align="center">
+  <img src="https://github.com/EsdrasMarcelinoDaSilva/EsdrasMarcelinoDaSilva/raw/main/assets/animacao.gif" alt="Hi, I'm Esdras 👋 I'm a 🚀 full stack developer 🚀 I ❤️  electronic circuits ❤️">
+</p>
 
 - 🔭 I’m currently working on **project Machine Learning**
 - 👯 I’m looking to collaborate on **project IA**
