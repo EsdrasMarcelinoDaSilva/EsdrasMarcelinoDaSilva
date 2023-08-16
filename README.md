@@ -6,8 +6,8 @@
 - 👯 I’m looking to collaborate on **project IA**
 - 👨‍💻 All of my projects are available at [https://github.com/EsdrasMarcelinoDaSilva](https://github.com/EsdrasMarcelinoDaSilva)
 - 💬 Ask me about **Technology, IA ethics, Career**
-- 📫 How to reach me **profesdras2@outlook.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/esdras-software-developer](https://www.linkedin.com/in/esdras-software-developer)
+- 📫 How to reach me **profesdras@hotmail.com**
+- 📄 Know about my experiences [https://www.linkedin.com/in/esdras-marcelino-da-silva-developer-full-stack/](https://www.linkedin.com/in/esdras-marcelino-da-silva-developer-full-stack/)
 - ⚡ Fun fact **Electronic Circuit Lover**
 
 <h3 align="left">Languages and Tools:</h3>
