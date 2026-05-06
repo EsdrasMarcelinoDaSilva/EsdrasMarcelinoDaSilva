@@ -1,48 +1,98 @@
 <p align="center">
-  <img src="https://github.com/EsdrasMarcelinoDaSilva/EsdrasMarcelinoDaSilva/raw/main/assets/header-animacao.gif" alt="Hi, I'm Esdras 👋 I'm a 🚀 full stack developer 🚀 I ❤️  electronic circuits ❤️">
+  <img src="https://github.com/EsdrasMarcelinoDaSilva/EsdrasMarcelinoDaSilva/raw/main/assets/header-animacao.gif" alt="Hi, I'm Esdras 👋 I'm a 🚀 full stack developer 🚀 I ❤️ electronic circuits ❤️">
 </p>
 
-- 🔭 I’m currently working on **project Machine Learning**
-- 👯 I’m looking to collaborate on **project IA**
-- 👨‍💻 All of my projects are available at [https://github.com/EsdrasMarcelinoDaSilva](https://github.com/EsdrasMarcelinoDaSilva)
-- 💬 Ask me about **Technology, IA ethics, Career**
-- 📫 How to reach me **profesdras@hotmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/esdras-marcelino-da-silva-developer-full-stack/](https://www.linkedin.com/in/esdras-marcelino-da-silva-developer-full-stack/)
-- ⚡ Fun fact **Electronic Circuit Lover**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=esdrasmarcelinodasilva&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">📊Github Metrics:</h3>
+## 👨‍💻 Sobre mim
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esdrasmarcelinodasilva&show_icons=true&locale=en&layout=compact" alt="esdrasmarcelinodasilva" /></p>
+- 🚀 Backend Engineer com foco em **NestJS**, **.NET Core** e sistemas assíncronos em produção
+- ⚙️ Trabalho com **BullMQ**, **WebSocket** e **Redis** para processamento de filas e comunicação real-time
+- 🌐 Full Stack quando necessário — **Next.js** e **React** no frontend
+- ☁️ Experiência com **AWS**, **Docker** e **CI/CD** em projetos reais
+- 🧪 Defensor de testes — unitários, integração e TDD no dia a dia
+- 💬 Me pergunte sobre: **NestJS, .NET, arquitetura de sistemas, filas e mensageria**
+- 📫 Contato: **esdrasmarcelino55@gmail.com**
+- 📄 LinkedIn: [linkedin.com/in/esdras-developer](https://www.linkedin.com/in/esdras-developer/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esdrasmarcelinodasilva&show_icons=true&locale=en" alt="esdrasmarcelinodasilva" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esdrasmarcelinodasilva&" alt="esdrasmarcelinodasilva" /></p>
+## 🛠️ Stack principal
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=esdrasmarcelinodasilva&label=Profile%20views&color=0e75b6&style=flat" alt="esdrasmarcelinodasilva" /> </p>
+**Backend**
 
-<h3 align="left">🔗Connect with me:</h3>
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+
+**Mensageria & Real-time**
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF6B6B?style=flat)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+**Banco de dados**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+
+---
+
+## 📌 Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [AI Finance](https://github.com/EsdrasMarcelinoDaSilva/AI_Finance) | Gestão financeira com IA para categorização de gastos | Next.js, Prisma, Docker |
+| [Barbershop](https://github.com/EsdrasMarcelinoDaSilva/barbershop-full) | Sistema de agendamento para barbearias | Next.js, Prisma, PostgreSQL |
+| [Meta Vacancies](https://github.com/EsdrasMarcelinoDaSilva/meta_vacancies_backend_project) | API REST de vagas com autenticação JWT e testes | Node.js, MongoDB, Vitest |
+| [Trello Kanban](https://github.com/EsdrasMarcelinoDaSilva/trello-kanban) | Board Kanban com drag and drop | React, TypeScript, Vite |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/esdras-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esdras-software-developer" height="30" width="40" /></a>
-  <a href="https://fb.com/esdras.marcelinodasilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="esdras.marcelinodasilva" height="30" width="40" /></a>
-  <a href="https://instagram.com/esdrasalien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="esdrasalien" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esdrasmarcelinodasilva&show_icons=true&locale=en&layout=compact" alt="top langs" />
 </p>
 
-<!--
-**EsdrasMarcelinoDaSilva/EsdrasMarcelinoDaSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=esdrasmarcelinodasilva&show_icons=true&locale=en" alt="github stats" />
+</p>
 
-Here are some ideas to get you started:
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esdrasmarcelinodasilva&" alt="streak stats" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esdrasmarcelinodasilva" alt="esdrasmarcelinodasilva" /></a> </p>
--->
+---
+
+## 🔗 Conecte-se comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/esdras-developer/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/esdrasalien" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  </a>
+</p>
